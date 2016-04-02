@@ -1,0 +1,24 @@
+{
+  "name": "mount-collective",
+  "version": "1.0.0",
+  "description": "weather for mountains",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zylstraj/mc-weather.git"
+  },
+  "keywords": [
+    "snow",
+    "winter",
+    "trips"
+  ],
+  "author": "jz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zylstraj/mc-weather/issues"
+  },
+  "homepage": "https://github.com/zylstraj/mc-weather#readme"
+}
